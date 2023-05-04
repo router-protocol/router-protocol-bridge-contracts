@@ -1,0 +1,44 @@
+{
+  "5": {
+    "proxy": "0x76e4bdB54d5F0b950c2E9A15E838D08e8C2163E1",
+    "implementation": "0xd8f4a82e72CcbFe6470309585c8e85d97679a1e2",
+    "creationTime": 1666088837095,
+    "updatedTime": [1666088837095]
+  },
+  "137": {
+    "proxy": "0x51712e68915953A2e56a0EeBC2E51De477E81E90",
+    "implementation": "0x85d130bc12440f7158B9E06668Cc2533F34EC36F",
+    "creationTime": 1661193149378,
+    "updatedTime": [1661193149379]
+  },
+  "250": {
+    "proxy": "0x0f07f2B32F97d5338508778bf742403773a46c6B",
+    "implementation": "0x0fE48a18c1E6887c980c2D242B6Da536D8c8A1D2",
+    "creationTime": 1661195096213,
+    "updatedTime": [1661195096213]
+  },
+  "1284": {
+    "proxy": "0xeA8fd31012991e1518Fe47f7BC7849859385Cf70",
+    "implementation": "0x57f41EfeaB626B0B529A54532Dc31f4A3A7e0f25",
+    "creationTime": 1656596424241,
+    "updatedTime": [1656596424241]
+  },
+  "2222": {
+    "proxy": "0xeA8fd31012991e1518Fe47f7BC7849859385Cf70",
+    "implementation": "0x57f41EfeaB626B0B529A54532Dc31f4A3A7e0f25",
+    "creationTime": 1657795161026,
+    "updatedTime": [1657795161026]
+  },
+  "43113": {
+    "proxy": "0x393E9E4d1735a21D5d09A328163C455298870585",
+    "implementation": "0x73019b2f77628DD816cb0E0b2B3CF237b261f2AA",
+    "creationTime": 1666093995223,
+    "updatedTime": [1666093995223]
+  },
+  "80001": {
+    "proxy": "0x5bf1E24dFBe3b9D84f07736AEEcF69b8db79A700",
+    "implementation": "0x393E9E4d1735a21D5d09A328163C455298870585",
+    "creationTime": 1667382597956,
+    "updatedTime": [1667382597956]
+  }
+}

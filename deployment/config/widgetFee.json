@@ -1,0 +1,11 @@
+{
+  "137": [
+    {
+      "widgetId": "1",
+      "feePerTx": "100000",
+      "widgetOwner": "",
+      "feeToken": "",
+      "alreadySet": false
+    }
+  ]
+}

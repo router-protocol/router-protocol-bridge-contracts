@@ -1,0 +1,168 @@
+{
+  "5": [
+    {
+      "name": "RUSDC",
+      "symbol": "RUSDC",
+      "rid": "0x0000000000000000000000510d0372f55a1687ce73e9826d33d7f3e43d849200",
+      "chainAdd": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+      "decimal": 6,
+      "alreadySet": true,
+      "proxy": "0x5bf1E24dFBe3b9D84f07736AEEcF69b8db79A700",
+      "implementation": "0xE84eb901E3d3FD636021465A4C94189023926671",
+      "creationTime": 1666086787032,
+      "updatedTime": [1666086787032]
+    }
+  ],
+  "137": [
+    {
+      "name": "RRoute",
+      "symbol": "RROUTE",
+      "rid": "0x0000000000000000000000bd9a8c58dc0f99007c0e67f432214cd55907834d00",
+      "chainAdd": "0x16ECCfDbb4eE1A85A33f3A9B21175Cd7Ae753dB4",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0x599309D9024BC732FD5ab0f25d341304eB95e053",
+      "implementation": "0x6dF21b2072A319D1683cC71F9BA6f4410baeac38",
+      "creationTime": 1661191403254,
+      "updatedTime": [1661191403254]
+    },
+    {
+      "name": "RDfyn",
+      "symbol": "DFYN",
+      "rid": "0x0000000000000000000000da913f2f57a4a1110bfb6ccbd4e3c88b9ca662f000",
+      "chainAdd": "0xC168E40227E4ebD8C1caE80F7a55a4F0e6D66C97",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0x1998AEE2F5Ea684eaC4a087d43fab2A0F121A58a",
+      "implementation": "0x6dF21b2072A319D1683cC71F9BA6f4410baeac38",
+      "creationTime": 1661191415115,
+      "updatedTime": [1661191415115]
+    },
+    {
+      "name": "RETH",
+      "symbol": "RETH",
+      "rid": "0x000000000000000000000064ffcaecb9a94569f2e082b260d2794168b96ac700",
+      "chainAdd": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0x0DB066E4bF5bd5aEB8C064456CFEb72D6221be61",
+      "implementation": "0x6dF21b2072A319D1683cC71F9BA6f4410baeac38",
+      "creationTime": 1661191425603,
+      "updatedTime": [1661191425603]
+    },
+    {
+      "name": "RUSDC",
+      "symbol": "RUSDC",
+      "rid": "0x0000000000000000000000510d0372f55a1687ce73e9826d33d7f3e43d849200",
+      "chainAdd": "0x2791Bca1f2de4661ED88A30C99A7a9449Aa84174",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0xc1374C01293AA90d79E279d34D3582700658B6fF",
+      "implementation": "0x6dF21b2072A319D1683cC71F9BA6f4410baeac38",
+      "creationTime": 1661191436432,
+      "updatedTime": [1661191436432]
+    },
+    {
+      "name": "RMATIC",
+      "symbol": "RMATIC",
+      "rid": "0x0000000000000000000000c3394bb9b118b3c9b5b8da297e20c08878edbed400",
+      "chainAdd": "0x4c28f48448720e9000907BC2611F73022fdcE1fA",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0xdc493c7eC607272914b851Ef8228353F6009C0ee",
+      "implementation": "0x6dF21b2072A319D1683cC71F9BA6f4410baeac38",
+      "creationTime": 1661191446981,
+      "updatedTime": [1661191446981]
+    }
+  ],
+  "250": [
+    {
+      "name": "Router Protocol",
+      "symbol": "ROUTE",
+      "rid": "0x000000000000000000000016eccfdbb4ee1a85a33f3a9b21175cd7ae753db400",
+      "chainAdd": "0x421cDa7F1Dd0B3a1Ed14Db5Fff31b0C349796F47",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0x421cDa7F1Dd0B3a1Ed14Db5Fff31b0C349796F47",
+      "implementation": "0x1b59cdBe5A7441932075b1251A4861F92E360CF0",
+      "creationTime": 1661191556980,
+      "updatedTime": [1661191556980]
+    },
+    {
+      "name": "Dfyn Network",
+      "symbol": "DFYN",
+      "rid": "0x0000000000000000000000c168e40227e4ebd8c1cae80f7a55a4f0e6d66c9700",
+      "chainAdd": "0xf7b2c6b80ba654C99720bc5BdE3445c019AD68e4",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0xf7b2c6b80ba654C99720bc5BdE3445c019AD68e4",
+      "implementation": "0x1b59cdBe5A7441932075b1251A4861F92E360CF0",
+      "creationTime": 1661191570577,
+      "updatedTime": [1661191570577]
+    },
+    {
+      "name": "RETH",
+      "symbol": "RETH",
+      "rid": "0x000000000000000000000064ffcaecb9a94569f2e082b260d2794168b96ac700",
+      "chainAdd": "0x74b23882a30290451A17c44f4F05243b6b58C76d",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0xa1efBDDd905eE64296850549aEB0d97C21091845",
+      "implementation": "0x1b59cdBe5A7441932075b1251A4861F92E360CF0",
+      "creationTime": 1661191579344,
+      "updatedTime": [1661191579344]
+    },
+    {
+      "name": "RUSDC",
+      "symbol": "RUSDC",
+      "rid": "0x0000000000000000000000510d0372f55a1687ce73e9826d33d7f3e43d849200",
+      "chainAdd": "0x04068DA6C83AFCFA0e13ba15A6696662335D5B75",
+      "decimal": 6,
+      "alreadySet": true,
+      "proxy": "0xc822571c6339d49311068915A4001F5663719568",
+      "implementation": "0x1b59cdBe5A7441932075b1251A4861F92E360CF0",
+      "creationTime": 1661191587587,
+      "updatedTime": [1661191587587]
+    },
+    {
+      "name": "RFTM",
+      "symbol": "RFTM",
+      "rid": "0x000000000000000000000099f7673c449d325cac340dd1a45f3b9bc3c67ce000",
+      "chainAdd": "0x21be370D5312f44cB42ce377BC9b8a0cEF1A4C83",
+      "decimal": 18,
+      "alreadySet": true,
+      "proxy": "0x2d4ef9c8a06Bd4A7b24E724aEd7e836c65c5B5d6",
+      "implementation": "0x1b59cdBe5A7441932075b1251A4861F92E360CF0",
+      "creationTime": 1661191596488,
+      "updatedTime": [1661191596488]
+    }
+  ],
+  "43113": [
+    {
+      "name": "RUSDC",
+      "symbol": "RUSDC",
+      "rid": "0x0000000000000000000000510d0372f55a1687ce73e9826d33d7f3e43d849200",
+      "chainAdd": "0x5425890298aed601595a70AB815c96711a31Bc65",
+      "decimal": 6,
+      "alreadySet": true,
+      "proxy": "0x18fde2Ebc16264F37512b8DCAC301298663F19e8",
+      "implementation": "0xE84eb901E3d3FD636021465A4C94189023926671",
+      "creationTime": 1666086828716,
+      "updatedTime": [1666086828716]
+    }
+  ],
+  "80001": [
+    {
+      "name": "RUSDC",
+      "symbol": "RUSDC",
+      "rid": "0x0000000000000000000000510d0372f55a1687ce73e9826d33d7f3e43d849200",
+      "chainAdd": "0xE097d6B3100777DC31B34dC2c58fB524C2e76921",
+      "decimal": 6,
+      "alreadySet": true,
+      "proxy": "0x73019b2f77628DD816cb0E0b2B3CF237b261f2AA",
+      "implementation": "0xE84eb901E3d3FD636021465A4C94189023926671",
+      "creationTime": 1667303789299,
+      "updatedTime": [1667303789299]
+    }
+  ]
+}

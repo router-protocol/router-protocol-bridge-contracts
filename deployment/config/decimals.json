@@ -1,0 +1,101 @@
+{
+    "5": [
+        {
+            "name": "RUSDC",
+            "destid": 1,
+            "token": "0x5bf1E24dFBe3b9D84f07736AEEcF69b8db79A700",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 1,
+            "token": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "RUSDC",
+            "destid": 3,
+            "token": "0x5bf1E24dFBe3b9D84f07736AEEcF69b8db79A700",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 3,
+            "token": "0x07865c6E87B9F70255377e024ace6630C1Eaa37F",
+            "decimal": 6,
+            "alreadySet": true
+        }
+    ],
+    "137": [
+        {
+            "name": "WETH",
+            "destid": 9,
+            "token": "0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619",
+            "decimal": 18,
+            "alreadySet": true
+        }
+    ],
+    "43113": [
+        {
+            "name": "RUSDC",
+            "destid": 1,
+            "token": "0x18fde2Ebc16264F37512b8DCAC301298663F19e8",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 1,
+            "token": "0x5425890298aed601595a70AB815c96711a31Bc65",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "RUSDC",
+            "destid": 7,
+            "token": "0x18fde2Ebc16264F37512b8DCAC301298663F19e8",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 7,
+            "token": "0x5425890298aed601595a70AB815c96711a31Bc65",
+            "decimal": 6,
+            "alreadySet": true
+        }
+    ],
+    "80001": [
+        {
+            "name": "RUSDC",
+            "destid": 3,
+            "token": "0x73019b2f77628DD816cb0E0b2B3CF237b261f2AA",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 3,
+            "token": "0xE097d6B3100777DC31B34dC2c58fB524C2e76921",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "RUSDC",
+            "destid": 7,
+            "token": "0x73019b2f77628DD816cb0E0b2B3CF237b261f2AA",
+            "decimal": 6,
+            "alreadySet": true
+        },
+        {
+            "name": "USDC",
+            "destid": 7,
+            "token": "0xE097d6B3100777DC31B34dC2c58fB524C2e76921",
+            "decimal": 6,
+            "alreadySet": true
+        }
+    ]
+}

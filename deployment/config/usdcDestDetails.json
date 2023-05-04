@@ -1,0 +1,16 @@
+{
+  "43114": [
+    {
+      "chainId": "7",
+      "actualChainId": "1",
+      "usdcDomainId": "0"
+    }
+  ],
+  "1": [
+    {
+      "chainId": "3",
+      "actualChainId": "43114",
+      "usdcDomainId": "1"
+    }
+  ]
+}

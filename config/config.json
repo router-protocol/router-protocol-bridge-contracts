@@ -1,0 +1,26 @@
+{
+  "7545": {
+    "BridgeUpgradeable": {
+      "chainID": "1",
+      "initialRelayers": ["0x0C9E2dE2fcA5856126086d9277c2DF38fAF8b0B2"],
+      "quorum": "6000",
+      "expiry": "1000"
+    }
+  },
+  "1337": {
+    "BridgeUpgradeable": {
+      "chainID": "1",
+      "initialRelayers": ["0x0C9E2dE2fcA5856126086d9277c2DF38fAF8b0B2"],
+      "quorum": "6000",
+      "expiry": "1000"
+    }
+  },
+  "4": {
+    "BridgeUpgradeable": {
+      "chainID": "1",
+      "initialRelayers": ["0x0C9E2dE2fcA5856126086d9277c2DF38fAF8b0B2"],
+      "quorum": "6000",
+      "expiry": "1000"
+    }
+  }
+}
